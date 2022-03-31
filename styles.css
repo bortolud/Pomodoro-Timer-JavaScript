@@ -1,0 +1,24 @@
+body{
+    background-color: #DF3635;
+}
+h1{
+    font-size: 6rem;
+    color: white;
+}
+.button{
+    color: white;
+}
+.startButton{
+    color: black;
+    background-color: white;
+}
+.navButton{
+    display: inline-block;
+}
+.centered{
+    display: flex;
+    justify-content: center;
+}
+.selected{
+    background-color: #BF2F2D;
+}
